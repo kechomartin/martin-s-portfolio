@@ -19,20 +19,7 @@ Here are some of the projects I've worked on:
 Here are the main tools and technologies I work with:
 
 ### 💻 Frontend
-- HTML5 / CSS3 / JavaScript (ES6+)
-- React.js
-- Vue.js
-- Tailwind CSS
-- Vite
-- Responsive Design
-
-### ⚙️ Backend
-- Node.js
-- Express.js (if applicable)
-
-### 🔗 APIs & Data
-- RESTful APIs
-- JSON
+- HTML5 / CSS3 
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
